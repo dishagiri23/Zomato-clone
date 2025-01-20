@@ -62,7 +62,7 @@ Zomato-clone/
 
 Add screenshots of my project to show how it looks. Example:
 
-https://github.com/dishagiri23/Zomato-clone/blob/e35d57e72c569191a0b38c7c9dfd550b191e29ce/zomato.png
+![image alt](https://github.com/dishagiri23/Zomato-clone/blob/e35d57e72c569191a0b38c7c9dfd550b191e29ce/zomato.png)
 
 
 ### 6. Future Enhancements
