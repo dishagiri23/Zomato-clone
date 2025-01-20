@@ -98,4 +98,4 @@ GitHub: https://github.com/dishagiri23
 
 ---
 
-This structure provides all the essential details and makes the project easy to understand for others!
+This structure provides all the essential details and makes the project easy to understand for others! :blush:
