@@ -88,7 +88,7 @@ Feel free to fork the project and submit a pull request.
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DishaGiri831182)
 
-### 9. Contact
+### 9. Contact :telephone_receiver:
 
 For any queries or suggestions, reach out to:
 
