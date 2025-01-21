@@ -1,4 +1,4 @@
-# Zomato Clone :high_brightness:
+#  :high_brightness: Zomato Clone 
 
 A simple Zomato clone created using HTML, CSS, and JavaScript. This project aims to replicate the design of the Zomato website, focusing on front-end development.
 
@@ -88,7 +88,7 @@ Feel free to fork the project and submit a pull request.
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DishaGiri831182)
 
-### 9. Contact :telephone_receiver:
+###  :telephone_receiver: 9. Contact 
 
 For any queries or suggestions, reach out to:
 
