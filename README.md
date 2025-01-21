@@ -41,7 +41,7 @@ The Zomato Clone replicates the basic UI/UX design of the Zomato website. It inc
 Fully responsive design for various screen sizes.
 
 
-### 3. Technologies Used :hammer_and_wrench:
+###  :hammer_and_wrench: 3. Technologies Used 
 
 Here, I used only basic HTML, CSS and JavaScript. Otherwise, I didn't use any technology here.
 
