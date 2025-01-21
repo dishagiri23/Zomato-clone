@@ -5,7 +5,7 @@ A simple Zomato clone created using HTML, CSS, and JavaScript. This project aims
 
 ---
 
-## Table of Contents :rocket:
+##  :rocket: Table of Contents 
 
     1. Overview
 
