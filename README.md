@@ -1,11 +1,11 @@
-# Zomato Clone
+# Zomato Clone :high_brightness:
 
 A simple Zomato clone created using HTML, CSS, and JavaScript. This project aims to replicate the design of the Zomato website, focusing on front-end development.
 
 
 ---
 
-## Table of Contents
+## Table of Contents :rocket:
 
     1. Overview
 
