@@ -92,7 +92,7 @@ Feel free to fork the project and submit a pull request.
 
 For any queries or suggestions, reach out to:
 
-Name: [Disha Giri]
+Name: Disha Giri
 
 Email: dishagiri09170@gmail.com
 
